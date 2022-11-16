@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    display: flex;
+}
+.caja{
+    flex-wrap: wrap;
+    width: 700px;
+    height: 600px;
+    border: solid red;
+    border-radius: 20px;
+}
+.contenedor{
+    flex-wrap: wrap;
+    width: 600px;
+    margin: 50px;
+    border: solid blue 2px
+    
+
+}
+.elemento1{
+    background-color: rgb(54, 77, 69);
+    border: solid black;
+    width: 600px;
+    height: 100px;
+}
+.elemento2{
+    background-color: rgb(200, 200, 50);
+    border: solid black;
+    width: 400px;
+    height: 100px;
+}
+.elemento3{
+    background-color: rgb(200, 200, 50);
+    border: solid black;
+    width: 200px;
+    height: 100px;
+}
+.elemento4{
+    background-color: rgb(200, 200, 50);
+    border: solid black;
+    width: 250px;
+    height: 200px;
+}
+.elemento5{
+    background-color: rgb(200, 200, 50);
+    border: solid black;
+    width: 350px;
+    height: 100px;
+}
+.elemento6{
+    background-color: rgb(200, 200, 50);;
+    border: solid black;
+    width: 350px;
+    height: 100px;
+    margin-left: 250px;
+    margin-top: -100px;
+}
+.elemento7{
+    background-color:rgb(47, 170, 36);
+    border: solid rgb(0, 0, 0);
+    width: 130px;
+    height: 100px;
+}
+.elemento8{
+    background-color: rgb(47, 170, 36);;
+    border: solid black;
+    width: 300px;
+    height: 100px;
+}
+.elemento9{
+    background-color: rgb(47, 170, 36);;
+    border: solid black;
+    width: 170px;
+    height: 100px;
+}
